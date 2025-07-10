@@ -1,10 +1,5 @@
-Git Clone 
+# Git Clone this repo > exploration chart js large dataset
 
+## Npm Install
 
-
-Npm i 
-
-
-and 
-
-Npm run dev
+## And Npm Run Dev
